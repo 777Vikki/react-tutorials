@@ -1,8 +1,11 @@
 import './App.css';
+import Navbar from './components/Navbar';
 
 function App() {
   return (
-    <div>React work</div>
+    <>
+      <Navbar title="TextUtils"/>
+    </>
   );
 }
 
