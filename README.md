@@ -1,5 +1,4 @@
-Props:
+Form
 
-Here we discussed:
-    > Create Component (Navbar)
-    > Use Props
+    > Use of onClick (TextForm)
+    > How to change value in form using onChange
